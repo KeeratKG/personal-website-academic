@@ -12,31 +12,25 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: "keerat.kaur.guliani@gmail.com "
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/GulianiKaur
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=ZuHZi3gAAAAJ&hl=en&authuser=1&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/KeeratKG
 organizations:
   - name: IIT Roorkee
     url: https://www.iitr.ac.in/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: kguliani@ce.iitr.ac.in
+    - course: B. Tech in Civil Engineering
+      institution: Indian Institute of Technology (IIT) Roorkee
+      year: 2022
+email: "keerat.kaur.guliani@gmail.com "
 superuser: true
 user_groups:
   - Researchers
