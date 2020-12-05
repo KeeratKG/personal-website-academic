@@ -1,7 +1,7 @@
 ---
 title: "Keerat Kaur Guliani "
 role: "Undergraduate Engineering Student "
-avatar_filename: admin/photograph2_sq.jpg
+avatar_filename: photograph_sq_cropped.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
