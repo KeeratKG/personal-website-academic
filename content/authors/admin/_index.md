@@ -9,7 +9,7 @@ interests:
   - Deep Learning
   - Interdisciplinary & Applied Research
   - Data Analytics
-  - Healthcare&PublicPolicy
+  - Healthcare & PublicPolicy
 social:
   - icon: envelope
     icon_pack: fas
