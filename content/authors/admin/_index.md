@@ -7,8 +7,9 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Machine Learning & Societal Impact
   - Deep Learning
-  - Interdisciplinary & Apllied Research
+  - Interdisciplinary & Applied Research
   - Data Analytics
+  - Healthcare&PublicPolicy
 social:
   - icon: envelope
     icon_pack: fas
