@@ -5,10 +5,10 @@ avatar_filename: photograph2_sq.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - MachineLearning&SocietalImpact
-  - DeepLearning
-  - Interdisciplinary&AplliedResearch
-  - DataAnalytics
+  - Machine Learning & Societal Impact
+  - Deep Learning
+  - Interdisciplinary & Apllied Research
+  - Data Analytics
 social:
   - icon: envelope
     icon_pack: fas
