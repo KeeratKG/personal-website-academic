@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: IIT Roorkee
+    url: https://www.iitr.ac.in/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -36,7 +36,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: kguliani@ce.iitr.ac.in
 superuser: true
 user_groups:
   - Researchers
