@@ -48,4 +48,4 @@ I’m an engineering undergraduate student enthusiastic about Interdisciplinary 
 
 As a person, I'm chirpy- I adore striking conversations with new people and knowing more about them. I am a passionate debater and represent my University at various levels. I'm involved in the campus journalistic activites and also love playing Badminton. I do well in diverse team-based environments and prize effective communication in my approach.
 
-Feel free to connect :)
+Feel free to connect!
