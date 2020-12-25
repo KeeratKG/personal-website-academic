@@ -18,18 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Summer Intern"
+  company = "CBTB Lab"
+  company_url = "http://compbio.iitr.ac.in/home/"
+  location = "IIT Roorkee, India"
+  date_start = "2019-05"
+  date_end = "2019-07"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Developed machine-learning architectures to classify the EEG Signals into Focal or Non-focal
+epileptic type, that would increase efficiency & accuracy of epileptic diagnosis. Publication currently under Submission process. 
   """
 
 [[experience]]
