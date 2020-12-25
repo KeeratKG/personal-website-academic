@@ -1,7 +1,7 @@
 ---
 title: "Keerat Kaur Guliani "
 role: "Undergraduate Engineering Student "
-avatar_filename: personal-website-academic/content/authors/admin/photograph2_sq.jpg
+avatar_filename: content/authors/admin/photograph2_sq.jpg
 bio: ""
 interests:
   - Machine Learning & Societal Impact
