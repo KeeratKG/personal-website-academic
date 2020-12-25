@@ -34,6 +34,9 @@ education:
     - course: B. Tech in Civil Engineering
       institution: Indian Institute of Technology (IIT) Roorkee
       year: 2022
+    - course: "AISSCE-Science Stream, CBSE "
+      year: 2018
+      institution: The Mother's International School
 email: "keerat.kaur.guliani@gmail.com "
 superuser: true
 user_groups:
