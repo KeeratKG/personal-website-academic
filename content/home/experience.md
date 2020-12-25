@@ -40,7 +40,7 @@ cerebellum to aid Developmental Connectomics research.
   date_end = "2019-09-15"
   description = """
   Project CoronaActionIndia: Developed an OpenAI gym environment from scratch as a basis for a novel RL pipeline to ensure
-fair distribution of Vaccines developed against Corona virus.
+fair distribution of Vaccines developed against Corona virus. Co-authored two publications, currently under review. 
   """
 
 [[experience]]
