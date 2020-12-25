@@ -17,6 +17,32 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+# MOST RECENT FIRST 
+
+[[experience]]
+  title = "Research Intern (Remote)"
+  company = "Lichtman Lab, Harvard University"
+  company_url = "https://lichtmanlab.fas.harvard.edu/"
+  location = "Cambridge, MA, USA"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """
+  To Perform Synaptic Location & Connectivity Detection to get Synaptic Segmentation in the mouse
+cerebellum to aid Developmental Connectomics research. 
+  """
+
+[[experience]]
+  title = "Research Intern (Remote)"
+  company = "TavLab, IIIT Delhi"
+  company_url = "http://tavlab.iiitd.edu.in/"
+  location = "New Delhi, India"
+  date_start = "2019-06-01"
+  date_end = "2019-09-15"
+  description = """
+  Project CoronaActionIndia: Developed an OpenAI gym environment from scratch as a basis for a novel RL pipeline to ensure
+fair distribution of Vaccines developed against Corona virus.
+  """
+
 [[experience]]
   title = "Summer Intern"
   company = "CBTB Lab"
