@@ -7,6 +7,6 @@ featured: false
 image:
   filename: featured.jpeg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 [Read Here. ](https://keerat-kaur-guliani.medium.com/coronaactionindia-1-c9c4b732319a)
