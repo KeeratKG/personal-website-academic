@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-abc
+[Read Here. ](http://watchout.iitr.ac.in/2020/11/summer-diaries-harvard-university-and-iiit-delhi?fbclid=IwAR2DMDyCfxoNTsSgZ9auZJvZGJRbjznAIunAgU1Qi6APd--Im_9EpT22CeQ)
