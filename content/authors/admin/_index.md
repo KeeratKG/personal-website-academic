@@ -26,6 +26,9 @@ social:
   - link: https://www.linkedin.com/in/keerat-kaur-guliani-a86903171/
     icon_pack: fab
     icon: linkedin
+  - link: https://keerat-kaur-guliani.medium.com/
+    icon_pack: ai
+    icon: medium
 organizations:
   - name: IIT Roorkee
     url: https://www.iitr.ac.in/
