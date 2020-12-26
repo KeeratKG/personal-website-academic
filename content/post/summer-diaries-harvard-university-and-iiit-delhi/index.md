@@ -7,6 +7,6 @@ featured: false
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 [Read Here. ](http://watchout.iitr.ac.in/2020/11/summer-diaries-harvard-university-and-iiit-delhi?fbclid=IwAR2DMDyCfxoNTsSgZ9auZJvZGJRbjznAIunAgU1Qi6APd--Im_9EpT22CeQ)
