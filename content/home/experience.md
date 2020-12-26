@@ -45,9 +45,9 @@ fair distribution of Vaccines developed against Corona virus. Co-authored two pu
 
 [[experience]]
   title = "Summer Intern"
-  company = "CBTB Lab"
+  company = "CBTB Lab, IIT Roorkee"
   company_url = "http://compbio.iitr.ac.in/home/"
-  location = "IIT Roorkee, India"
+  location = "Uttarakhand, India"
   date_start = "2019-05-01"
   date_end = "2019-07-01"
   description = """
@@ -56,12 +56,44 @@ epileptic type, that would increase efficiency & accuracy of epileptic diagnosis
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Attendee"
+  company = "Thirty-fourth Conference on Neural Information Processing Systems(NeurIPS)"
+  company_url = "https://neurips.cc/"
+  location = "Virtual"
+  date_start = "2020-12-07"
+  date_end = "2020-12-12"
+  description = """Annual Conference to foster the exchange of research on neural information processing systems."""
+  
+[[experience]]
+  title = "Participant"
+  company = " Second Annual Georgia Tech Data Science for Social Good (DS4SG) Workshop"
+  company_url = "https://ds4sg.gatech.edu/"
+  location = "Georgia Institute of Technology, USA (Virtual)"
+  date_start = "2020-11-05"
+  date_end = "2020-11-06"
+  description = """Workshop focusing on the application of data science techniques to problems of significant societal
+impact."""
+  
+[[experience]]
+  title = "Team Leader (Team Blue Black Buckle Berries)"
+  company = "Global Adobe Analytics Challenge 2020"
+  company_url = "https://adobeanalyticschallenge.com/"
+  location = "Virtual"
+  date_start = "2020-09-30"
+  date_end = "2020-10-14"
+  description = """Successfully completed and made recommendations for improving the Nike experience based on a
+comprehensive analysis of their data using the Adobe Analytics workspace, amongst 1600 teams
+from across the world."""
+  
+[[experience]]
+  title = "Delegate"
+  company = "Winter Workshop on Machine Intelligence & Brain Research"
+  company_url = "https://ccbr.iitmadras.in/workshops"
+  location = "IIT Madras, Chennai, India"
+  date_start = "2020-01-02"
+  date_end = "2020-01-10"
+  description = """Comprehensive interdisciplinary workshop focusing on the robust interactions between engineering
+and neuroscience."""
+    
 
 +++
