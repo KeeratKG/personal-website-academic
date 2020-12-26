@@ -5,7 +5,7 @@ date: 2020-11-05T11:08:00.000Z
 draft: false
 featured: false
 image:
-  filename: photograph_sq_cropped.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
