@@ -19,33 +19,44 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "Coursera(University of Michigan)"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Using Python to Access Web Data"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/4YRZUA2N3VEL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+  date_start = "2020-12-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Coursera(Imperial College London)"
+  organization_url = "https://www.coursera.org"
+  title = "Statistics and Data Analysis in Public Health"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/A9QXJMABPU2A?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+  date_start = "2020-11-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Coursera Project Network"
+  organization_url = "https://www.coursera.org"
+  title = "Exploratory Data Analysis"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/WBKKJ2YC4XJM?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=project&utm_source=link"
+  date_start = "2020-07-14"
+  date_end = ""
+  description = ""  
+  
+[[item]]
+  organization = "Coursera Project Network"
+  organization_url = "https://www.coursera.org"
+  title = "Agent-based Modeling with NetLogo"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/JV9YFBGLP6GF?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=project&utm_source=link"
+  date_start = "2020-07-05"
+  date_end = ""
+  description = ""  
+
 
 +++
