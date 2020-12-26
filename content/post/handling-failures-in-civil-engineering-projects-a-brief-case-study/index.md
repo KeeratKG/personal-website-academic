@@ -8,6 +8,6 @@ featured: false
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 [Read Here.](https://keerat-kaur-guliani.medium.com/handling-failures-in-civil-engineering-projects-a-brief-case-study-970c6784ac60)
