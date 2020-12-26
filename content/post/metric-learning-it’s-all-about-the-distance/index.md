@@ -7,6 +7,6 @@ featured: false
 image:
   filename: featured.jpeg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 [Read Here. ](https://medium.com/vlgiitr/metric-learning-its-all-about-the-distance-143a199ab7a5)
