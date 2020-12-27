@@ -1,6 +1,6 @@
 ---
 title: DEAP Cache (Deep Eviction Admission and Prefetching for Cache)
-summary: The PyTorch codebase for -> DEAP Cache: Deep Eviction Admission and Prefetching for Cache. 
+summary: Pytorch codebase for DEAP Cache. 
 tags:
 - CSE
 date: "2020-09-15T00:00:00Z"
