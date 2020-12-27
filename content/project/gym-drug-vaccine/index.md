@@ -1,6 +1,6 @@
 ---
 title: gym-drug-vaccine
-summary: Policy Optimisation for the drug/vaccine disribution problem using Reinforcement Learning. Codebase for VacSIM.  
+summary: Created an OpenAI gym environment for Policy Optimisation in the drug/vaccine disribution problem using Reinforcement Learning. Codebase for VacSIM.  
 tags:
 - CSE
 date: "2020-09-15T00:00:00Z"
