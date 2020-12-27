@@ -6,7 +6,7 @@ title: "VacSIM: Learning Effective Strategies for COVID-19 Vaccine Distribution 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Raghav Awasthi 
-- admin*
+- admin
 - Arshita Bhatt
 - Mehrab Singh Gill
 - Aditya Nagori
