@@ -1,6 +1,6 @@
 ---
 title: rEEGard (robust algorithm for EEG-based automated seizure diagnosis)
-summary: Classification of EEG Signals into focal and non-focal epileptic type. Manuscript in preparation stage. 
+summary: Classification of EEG Signals into focal and non-focal epileptic type using Machine Learning and Deep Learning architectures. Manuscript in preparation stage. 
 tags:
 - CSE
 date: "2019-07-15T00:00:00Z"
