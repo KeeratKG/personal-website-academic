@@ -1,5 +1,5 @@
 ---
-title: rEEGard (**r**obust algorithm for **EEG**-based **a**utomated seizu**r**e **d**iagnosis)
+title: rEEGard (robust algorithm for EEG-based automated seizure diagnosis)
 summary: Classification of EEG Signals into focal and non-focal epileptic type. Manuscript in preparation stage. 
 tags:
 - CSE
