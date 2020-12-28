@@ -41,8 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-  name: Custom Link
-  url: https://link.springer.com/chapter/10.1007/978-3-030-29227-0_69
+ name: Custom Link
+ url: https://link.springer.com/chapter/10.1007/978-3-030-29227-0_69
 
 url_pdf: ''
 url_code: ''
