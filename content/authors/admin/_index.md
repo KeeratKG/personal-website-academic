@@ -8,6 +8,7 @@ interests:
   - Deep Learning
   - Interdisciplinary & Applied Research
   - Data Analytics
+  - Causality and Reinforcement Learning
   - Healthcare & Public Policy
   - Civil Engineering
 social:
@@ -34,7 +35,7 @@ organizations:
     url: https://www.iitr.ac.in/
 education:
   courses:
-    - course: B. Tech in Civil Engineering
+    - course: B. Tech in Civil Engineering(Major), Computer Science(Minor)
       institution: Indian Institute of Technology (IIT) Roorkee
       year: 2022
     - course: "AISSCE-Science Stream, CBSE "
