@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "https://lichtmanlab.fas.harvard.edu/"
   location = "Cambridge, MA, USA"
   date_start = "2020-06-01"
-  date_end = ""
+  date_end = "2021-01-01
   description = """
   To Perform Synaptic Location & Connectivity Detection to get Synaptic Segmentation in the mouse
 cerebellum to aid Developmental Connectomics research. 
@@ -94,6 +94,14 @@ from across the world."""
   date_end = "2020-01-10"
   description = """Comprehensive interdisciplinary workshop focusing on the robust interactions between engineering
 and neuroscience."""
-    
+
+[[experience]]
+  title = "Finalist
+  company = "GS Women’s Possibilities Summit: Finance"
+  company_url = "https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html"
+  location = "Virtual
+  date_start = "2021-02-22"
+  date_end = "2021-02-25"
+  description = """Slected for the 2020-21 Women’s Possibilities Summit: Finance - Finale Event by Goldman Sachs on the basis of my submission comprising a technology innovation idea coupled with a high level solution architecture."""
 
 +++
