@@ -96,10 +96,10 @@ from across the world."""
 and neuroscience."""
 
 [[experience]]
-  title = "Finalist
+  title = "Finalist"
   company = "GS Women’s Possibilities Summit: Finance"
   company_url = "https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html"
-  location = "Virtual
+  location = "Virtual"
   date_start = "2021-02-22"
   date_end = "2021-02-25"
   description = """Slected for the 2020-21 Women’s Possibilities Summit: Finance - Finale Event by Goldman Sachs on the basis of my submission comprising a technology innovation idea coupled with a high level solution architecture."""
