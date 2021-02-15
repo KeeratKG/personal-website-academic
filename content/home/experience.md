@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "https://lichtmanlab.fas.harvard.edu/"
   location = "Cambridge, MA, USA"
   date_start = "2020-06-01"
-  date_end = "2021-01-01
+  date_end = "2021-01-01"
   description = """
   To Perform Synaptic Location & Connectivity Detection to get Synaptic Segmentation in the mouse
 cerebellum to aid Developmental Connectomics research. 
