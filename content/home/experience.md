@@ -102,6 +102,26 @@ and neuroscience."""
   location = "Virtual"
   date_start = "2021-02-22"
   date_end = "2021-02-25"
-  description = """Slected for the 2020-21 Women’s Possibilities Summit: Finance - Finale Event by Goldman Sachs on the basis of my submission comprising a technology innovation idea coupled with a high level solution architecture."""
+  description = """Selected for the 2020-21 Women’s Possibilities Summit: Finance - Finale Event by Goldman Sachs on the basis of my submission comprising a technology innovation idea coupled with a high level solution architecture."""
+
+[[experience]]
+  title = "Attendee"
+  company = "Women in Data Science(WiDS) Conference"
+  company_url = "https://www.widsconference.org/"
+  location = "Virtual"
+  date_start = "2021-03-08"
+  date_end = "2021-03-09"
+  description = """24 hour worldwide conference bringing together womxn passionate about the field of data science through multiple speaker sessions, workshops, datathon and more."""
+  
+
+[[experience]]
+  title = "Virtual DataDive Event "
+  company = "DataKind"
+  company_url = "https://www.datakind.org/"
+  location = "Virtual"
+  date_start = "2021-03-04"
+  date_end = "2021-03-07"
+  description = """A high energy, marathon-style, weekend-long event on the theme- Trust, Transparency, Togetherness:Powering Public Data for Communities. I volunteered to contribute as a part of the Synthetic Data Generation Project!"""  
+
 
 +++
