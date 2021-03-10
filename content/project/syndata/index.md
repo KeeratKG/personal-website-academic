@@ -6,7 +6,7 @@ tags:
 date: "2021-03-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-#external_link: "https://github.com/datakind/Mar21-synthetic-data"
+external_link: "https://github.com/datakind/Mar21-synthetic-data"
 
 image:
   caption: DataDive theme.   
