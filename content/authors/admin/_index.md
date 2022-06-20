@@ -4,10 +4,9 @@ role: "Undergraduate Engineering Student "
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - AI/Data Science & Societal Impact
+  - AI for Social Good
   - Causality, Reinforcement Learning
   - Healthcare, Public Policy
-  - Civil Engineering
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,10 +44,10 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-I’m an engineering undergraduate student enthusiastic about Interdisciplinary and Applied Research involving Data.  I am keen on a career wherein I can use my tech skills for social good and create an impact in the world around me. I try to strike a balance in everything I do, including my work and personal life :)
+I’m a recent graduate of IIT Roorkee, enthusiastic about Interdisciplinary and Applied Research involving Data.  I am keen on designing computational solutions for problems in healthcare. I aim to create positive impact through my work, and try to strike a balance in everything I do :)
 
-**Currently, I am interning at the Machine Learning Lab, University of Freiburg with Dr Frank Hutter as a DAAD WISE Scholar.**
+**I'll be starting my MS in Applied Computing at the Department of Computer Science, University of Toronto from Fall 2022.**
 
-As a person, I'm chirpy- I adore striking conversations with new people and knowing more about them. I am a passionate debater and represent my University at various levels. I'm involved in the campus journalistic activites and also love playing Badminton. I do well in diverse team-based environments and prize effective communication in my approach.
+As a person, I'm chirpy- I adore striking conversations with new people and knowing more about them. I am a passionate debater and have represented my University at various levels. I'm involved in the campus journalistic activites and also love playing Badminton. I do well in diverse team-based environments and prize effective communication in my approach.
 
 Feel free to connect!
