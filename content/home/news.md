@@ -23,7 +23,7 @@ weight = 30
 -   **Jun 2021**:
     Awarded the **DAAD-WISE Fellowship**! Will be working remotely (COVID-19) **Prof. Frank Hutter** at the Machine Learning Lab, University of Freiburg.
     
-- ** May 2021**: Working as a Data Science intern at [Plio](https://www.plio.in/). 
+- **May 2021**: Working as a Data Science intern at [Plio](https://www.plio.in/). 
 - **Jun 2020**: Will be aiding scientific efforts against COVID-19 by working as a research intern at **Dr. Tavpritesh Sethi's** lab. 
 -   **Apr 2020**:
     Accepted as a research intern at Lichtman Lab, IISc! Will be working remotely (COVID-19) with **Prof. Jeff Lichtman** over the upcoming summer.
