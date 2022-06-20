@@ -18,6 +18,27 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Coursera Project Network"
+  organization_url = "https://www.coursera.org"
+  title = "Build a Data Science Web App with Streamlit and Python"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/G9J2CL2ZFMHF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project"
+  date_start = "2021-02-16"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Coursera Project Network"
+  organization_url = "https://www.coursera.org"
+  title = "Essential Causal Inference Techniques for Data Science"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/D67EDWPB7M26?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project"
+  date_start = "2021-01-31"
+  date_end = ""
+  description = ""
+
 [[item]]
   organization = "Coursera(University of Michigan)"
   organization_url = "https://www.coursera.org"
