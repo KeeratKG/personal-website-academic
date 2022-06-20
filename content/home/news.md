@@ -30,5 +30,3 @@ weight = 30
 
 -   **Sep 2019**: Our paper "Long Span Arch Bridges in India: Design Aspects and Aesthetics" has been accpeted at **[ARCH 2019](https://link.springer.com/chapter/10.1007/978-3-030-29227-0_69)**
     
--   **April 2018**:
-    Excited to work with **Prof. Marco Pedersoli** and **Prof. Jose Dolz** over the summers!
