@@ -19,25 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 # MOST RECENT FIRST 
 
-# experience
-  title = "Attendee"
-  company = "Women in Data Science(WiDS) Conference"
-  company_url = "https://www.widsconference.org/"
-  location = "Virtual"
-  date_start = "2021-03-08"
-  date_end = "2021-03-09"
-  description = """24 hour worldwide conference bringing together womxn passionate about the field of data science through multiple speaker sessions, workshops, datathon and more.""" -->
-  
-  # experience
-  title = "Attendee"
-  company = "Thirty-fourth Conference on Neural Information Processing Systems(NeurIPS)"
-  company_url = "https://neurips.cc/"
-  location = "Virtual"
-  date_start = "2020-12-07"
-  date_end = "2020-12-12"
-  description = """Annual Conference to foster the exchange of research on neural information processing systems.""" -->
-  
-
 
 [[experience]]
   title = "Research Intern (Remote)"
