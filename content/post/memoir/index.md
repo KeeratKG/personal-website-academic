@@ -3,7 +3,7 @@ title: "Down Memory Lane: Sketched in Sand"
 subtitle: "College Memoir. "
 date: 2022-05-26T13:15:48.638Z
 draft: false
-featured: false
+featured: true 
 image:
   filename: featured.jpeg
   focal_point: Smart
