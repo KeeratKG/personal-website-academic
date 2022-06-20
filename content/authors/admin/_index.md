@@ -1,6 +1,6 @@
 ---
 title: "Keerat Kaur Guliani "
-role: "Undergraduate Engineering Student "
+role: "Incoming Master's Student "
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -27,8 +27,8 @@ social:
     icon_pack: fab
     icon: medium
 organizations:
-  - name: IIT Roorkee
-    url: https://www.iitr.ac.in/
+  - name: University of Toronto
+    url: [https://www.iitr.ac.in/](https://mscac.utoronto.ca/)
 education:
   courses:
     - course: B. Tech in Civil Engineering(Major), Computer Science(Minor)
