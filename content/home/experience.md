@@ -40,7 +40,7 @@ cerebellum to aid Developmental Connectomics research.
   date_start = "2020-06-01"
   date_end = "2020-09-15"
   description = """
-  Project CoronaActionIndia: Developed an OpenAI gym environment from scratch as a basis for a novel RL pipeline to ensure
+  Project CoronaActionIndia: Developed an RL environment compatible with OpenAI gym from scratch as a basis for a novel RL pipeline to ensure
 fair distribution of Vaccines developed against Corona virus. Co-authored two publications, currently under review. 
   """
 
@@ -55,47 +55,6 @@ fair distribution of Vaccines developed against Corona virus. Co-authored two pu
   Developed machine-learning architectures to classify the EEG Signals into Focal or Non-focal
 epileptic type, that would increase efficiency & accuracy of epileptic diagnosis. Publication currently under Submission process. 
   """
-
-
-[[experience]]
-  title = "Participant"
-  company = " Second Annual Georgia Tech Data Science for Social Good (DS4SG) Workshop"
-  company_url = "https://ds4sg.gatech.edu/"
-  location = "Georgia Institute of Technology, USA (Virtual)"
-  date_start = "2020-11-05"
-  date_end = "2020-11-06"
-  description = """Workshop focusing on the application of data science techniques to problems of significant societal
-impact."""
-  
-[[experience]]
-  title = "Team Leader (Team Blue Black Buckle Berries)"
-  company = "Global Adobe Analytics Challenge 2020"
-  company_url = "https://adobeanalyticschallenge.com/"
-  location = "Virtual"
-  date_start = "2020-09-30"
-  date_end = "2020-10-14"
-  description = """Successfully completed and made recommendations for improving the Nike experience based on a
-comprehensive analysis of their data using the Adobe Analytics workspace, amongst 1600 teams
-from across the world."""
-  
-[[experience]]
-  title = "Delegate"
-  company = "Winter Workshop on Machine Intelligence & Brain Research"
-  company_url = "https://ccbr.iitmadras.in/workshops"
-  location = "IIT Madras, Chennai, India"
-  date_start = "2020-01-02"
-  date_end = "2020-01-10"
-  description = """Comprehensive interdisciplinary workshop focusing on the robust interactions between engineering
-and neuroscience."""
-
-[[experience]]
-  title = "Finalist"
-  company = "GS Women’s Possibilities Summit: Finance"
-  company_url = "https://www.goldmansachs.com/careers/students/programs/india/womens-possibilities-summit-finance.html"
-  location = "Virtual"
-  date_start = "2021-02-22"
-  date_end = "2021-02-25"
-  description = """Selected for the 2020-21 Women’s Possibilities Summit: Finance - Finale Event by Goldman Sachs on the basis of my submission comprising a technology innovation idea coupled with a high level solution architecture."""
   
 
 [[experience]]
