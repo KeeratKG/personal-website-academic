@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 # MOST RECENT FIRST 
 
+# experience
+  title = "Attendee"
+  company = "Women in Data Science(WiDS) Conference"
+  company_url = "https://www.widsconference.org/"
+  location = "Virtual"
+  date_start = "2021-03-08"
+  date_end = "2021-03-09"
+  description = """24 hour worldwide conference bringing together womxn passionate about the field of data science through multiple speaker sessions, workshops, datathon and more.""" -->
+  
+  # experience
+  title = "Attendee"
+  company = "Thirty-fourth Conference on Neural Information Processing Systems(NeurIPS)"
+  company_url = "https://neurips.cc/"
+  location = "Virtual"
+  date_start = "2020-12-07"
+  date_end = "2020-12-12"
+  description = """Annual Conference to foster the exchange of research on neural information processing systems.""" -->
+  
+
+
 [[experience]]
   title = "Research Intern (Remote)"
   company = "Lichtman Lab, Harvard University"
@@ -55,15 +75,7 @@ fair distribution of Vaccines developed against Corona virus. Co-authored two pu
 epileptic type, that would increase efficiency & accuracy of epileptic diagnosis. Publication currently under Submission process. 
   """
 
-<!-- [[experience]]
-  title = "Attendee"
-  company = "Thirty-fourth Conference on Neural Information Processing Systems(NeurIPS)"
-  company_url = "https://neurips.cc/"
-  location = "Virtual"
-  date_start = "2020-12-07"
-  date_end = "2020-12-12"
-  description = """Annual Conference to foster the exchange of research on neural information processing systems.""" -->
-  
+
 [[experience]]
   title = "Participant"
   company = " Second Annual Georgia Tech Data Science for Social Good (DS4SG) Workshop"
@@ -103,15 +115,6 @@ and neuroscience."""
   date_start = "2021-02-22"
   date_end = "2021-02-25"
   description = """Selected for the 2020-21 Women’s Possibilities Summit: Finance - Finale Event by Goldman Sachs on the basis of my submission comprising a technology innovation idea coupled with a high level solution architecture."""
-
-<!-- [[experience]]
-  title = "Attendee"
-  company = "Women in Data Science(WiDS) Conference"
-  company_url = "https://www.widsconference.org/"
-  location = "Virtual"
-  date_start = "2021-03-08"
-  date_end = "2021-03-09"
-  description = """24 hour worldwide conference bringing together womxn passionate about the field of data science through multiple speaker sessions, workshops, datathon and more.""" -->
   
 
 [[experience]]
