@@ -28,7 +28,7 @@ social:
     icon: medium
 organizations:
   - name: University of Toronto
-    url: [https://www.iitr.ac.in/](https://mscac.utoronto.ca/)
+    url: https://mscac.utoronto.ca/
 education:
   courses:
     - course: B. Tech in Civil Engineering(Major), Computer Science(Minor)
