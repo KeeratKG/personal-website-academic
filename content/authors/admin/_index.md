@@ -46,7 +46,7 @@ highlight_name: false
 ---
 I’m a recent graduate of IIT Roorkee, enthusiastic about Interdisciplinary and Applied Research involving Data.  I am keen on designing computational solutions for problems in healthcare. I aim to create positive impact through my work, and try to strike a balance in everything I do :)
 
-**I'll be starting my MS in Applied Computing at the Department of Computer Science, University of Toronto from Fall 2022.**
+**I started my MS in Applied Computing at the Department of Computer Science, University of Toronto from Fall 2022.**
 
 As a person, I'm chirpy- I adore striking conversations with new people and knowing more about them. I am a passionate debater and have represented my University at various levels. I'm involved in the campus journalistic activites and also love playing Badminton. I do well in diverse team-based environments and prize effective communication in my approach.
 
