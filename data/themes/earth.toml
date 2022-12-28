@@ -3,12 +3,12 @@ name = "earth"
 
 [light]
   # Primary
-  primary = "#17202A"
+  primary = "#000000"
 
   # Menu
-  menu_primary = "#17202A"
+  menu_primary = "#000000"
   menu_text = "#fff"
-  menu_text_active = "#1b5e20"
+  menu_text_active = "#5b5b5b"
   menu_title = "#fff"
 
   # Home sections
