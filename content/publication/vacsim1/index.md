@@ -33,12 +33,12 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: On *arxiv*
-#publication_short: In *ICW*
+#publication_short: In Elsevier's *IBM*
 
 abstract: A COVID-19 vaccine is our best bet for mitigating the ongoing onslaught of the pandemic. However, vaccine is also expected to be a limited resource. An optimal allocation strategy, especially in countries with access inequities and a temporal separation of hot-spots might be an effective way of halting the disease spread. We approach this problem by proposing a novel pipeline VacSIM that dovetails Actor-Critic using Kronecker-Factored Trust Region (ACKTR) model into a Contextual Bandits approach for optimizing the distribution of COVID-19 vaccine. Whereas the ACKTR model suggests better actions and rewards, Contextual Bandits allow online modifications that may need to be implemented on a day-to-day basis in the real world scenario. We evaluate this framework against a naive allocation approach of distributing vaccine proportional to the incidence of COVID-19 cases in five different States across India and demonstrate up to 100,000 additional lives potentially saved and a five-fold increase in the efficacy of limiting the spread over a period of 30 days through the VacSIM approach. We also propose novel evaluation strategies including a standard compartmental model based projections and a causality preserving evaluation of our model. Finally, we contribute a new Open-AI environment meant for the vaccine distribution scenario, and open-source VacSIM for wide testing and applications across the globe.
 
 # Summary. An optional shortened abstract.
-summary: Submitted to AAAI 2020. Presented at the RAISE Summit 2020 & MIT’s 'Vaccines For All' Conference.
+summary: Published in Elsevier's Intelligence Based Medicine journal. Also presented at the RAISE Summit 2020 & MIT’s 'Vaccines For All' Conference.
 
 tags: []
 
@@ -46,11 +46,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Paper
+   url: https://www.sciencedirect.com/science/article/pii/S2666521222000138
 
-url_pdf: 'https://arxiv.org/pdf/2009.06602.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
