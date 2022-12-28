@@ -1,6 +1,6 @@
 ---
 title: "Keerat Kaur Guliani "
-role: "Incoming Master's Student "
+role: "MSc. Applied Computing Student "
 avatar_filename: avatar.jpg
 bio: ""
 interests:
