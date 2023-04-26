@@ -4,6 +4,7 @@ role: "MSc. Applied Computing Student "
 avatar_filename: avatar.jpg
 bio: ""
 interests:
+  - Applied Machine Learning Research
   - AI for Social Good
   - Causality, Reinforcement Learning
   - Healthcare, Public Policy
