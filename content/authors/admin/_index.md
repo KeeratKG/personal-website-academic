@@ -31,7 +31,10 @@ organizations:
     url: https://mscac.utoronto.ca/
 education:
   courses:
-    - course: B. Tech in Civil Engineering(Major), Computer Science(Minor)
+    - course: MSc. in Applied Computing 
+      institution: Department of Computer Science, University of Toronto
+      year: 2024
+    - course: B.Tech in Civil Engineering(Major), Computer Science(Minor)
       institution: Indian Institute of Technology (IIT) Roorkee
       year: 2022
     - course: "AISSCE-Science Stream, CBSE "
@@ -44,10 +47,10 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-I’m a recent graduate of IIT Roorkee, enthusiastic about Interdisciplinary and Applied Research involving Data.  I am keen on designing computational solutions for problems in healthcare. I aim to create positive impact through my work, and try to strike a balance in everything I do :)
+I’m a recent graduate of IIT Roorkee, enthusiastic about Interdisciplinary and Applied Machine Learning Research.  In the past, I have enjoyed working on designing computational solutions for problems in healthcare. I aim to create positive impact through my work, and try to strike a balance in everything I do :)
 
 **I started my MS in Applied Computing at the Department of Computer Science, University of Toronto from Fall 2022.**
 
-As a person, I'm chirpy- I adore striking conversations with new people and knowing more about them. I am a passionate debater and have represented my University at various levels. I'm involved in the campus journalistic activites and also love playing Badminton. I do well in diverse team-based environments and prize effective communication in my approach.
+As a person, I'm chirpy- I adore striking conversations with new people and knowing more about them. I like to keep my hobbies versatile, from parliamentary debating to painting to badminton. I do well in diverse team-based environments and prize effective communication in my approach.
 
 Feel free to connect!
