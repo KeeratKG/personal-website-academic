@@ -8,8 +8,8 @@ date = 2018-06-28T00:00:00
 count = 5
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "News"
- subtitle = ""
+title = "Accomplishments"
+ subtitle = "Awards & Honours"
 
 # Order that this section will appear in.
 weight = 45
