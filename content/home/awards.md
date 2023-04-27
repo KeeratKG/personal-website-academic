@@ -16,17 +16,19 @@ weight = 45
 
 +++
 
--	**Aug 2022**: Heading over to **University of Toronto** for **Master of Science in Applied Computing**, Fall 2022 cohort.
--	**May 2022**: Graduated from IIT Roorkee.
--   **Mar 2022**: Our paper "[VacSIM](https://www.sciencedirect.com/science/article/pii/S2666521222000138): Learning effective strategies for COVID-19 vaccine distribution using reinforcement learning" has been accepted at **Elsevier's Intelligence Based Medicine**!
+-	Manmohan Das Seth Department Gold Medal, IIT Roorkee (2022)
+-	Prof. Ranvir Singh Shastry Cash Prize for obtaining the second highest CGPA amongst the graduating girl students of all B.Tech. programmes, IIT Roorkee (2022)
+-	Best Project Award, Department of Civil Engineering - Planning and Design of Smart Civil Infrastructures for Dehradun
+-	Madhusudan Dayal Mithal Medal for securing the highest CGPA amongst the graduating students of B.Tech. (Civil Engineering), IIT Roorkee (2022)
+-	Shri Shiv Nandan Swaroop and Avadh Narayan Bhatnagar Cash Prize for securing the highest CGPA amongst the graduating students of B.Tech. (Civil Engineering), IIT Roorkee (2022)
+-	Prabhakar Swarup Civil Engineering Award for securing the highest CGPA amongst the graduating students of B.Tech. (Civil Engineering), IIT Roorkee (2022)
+-	Rai Bahadur Sohan Lal Bhatia Medal for securing the highest CGPA amongst the graduating students of B.Tech. (Civil Engineering), IIT Roorkee (2022)
+-	DAAD-WISE 2021 Scholarship, Supervisor: Dr Frank Hutter (2021)
+-	Jagdish Prasad & Shail Goyal Excellence IITR Heritage Foundation Award and Scholarship for outstanding academic, co-curricular and extra-curricular achievements (2021)
+-	ENCORE Scholarship for being amongst the top 10 students in Third Year B.Tech based on merit (2021)
+-	Summer Research Fellowship by the Indian Academy of Sciences (2020)
+-	All-India Rank 7964, Joint Entrance Examination(Advanced) among 1,50,000 students (2018)
+-	All-India Rank 7130, Joint Entrance Examination(Mains) among 12,00,000 students (2018)
+-	All-India Rank 14558 and Category Rank(UR) 8891, National Eligibility cum Entrance Test (Medicine) among 13,26,000 students (2018)
+- National Talent Search Examination Scholar (2016)
 
--   **Jun 2021**:
-    Awarded the **DAAD-WISE Fellowship**! Will be working remotely (COVID-19) **Prof. Frank Hutter** at the Machine Learning Lab, University of Freiburg.
-    
-- **May 2021**: Working as a Data Science intern at [Plio](https://www.plio.in/). 
-- **Jun 2020**: Will be aiding scientific efforts against COVID-19 by working as a research intern at **Dr. Tavpritesh Sethi's** lab. 
--   **Apr 2020**:
-    Accepted as a research intern at Lichtman Lab, IISc! Will be working remotely (COVID-19) with **Prof. Jeff Lichtman** over the upcoming summer.
-
--   **Sep 2019**: Our paper "Long Span Arch Bridges in India: Design Aspects and Aesthetics" has been accpeted at **[ARCH 2019](https://link.springer.com/chapter/10.1007/978-3-030-29227-0_69)**
-    
