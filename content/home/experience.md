@@ -17,5 +17,5 @@ weight = 40
 
 +++
 
- - Always updated on [LinkedIn.](https://www.linkedin.com/in/keerat-kaur-guliani/)
+ Always updated on [LinkedIn.](https://www.linkedin.com/in/keerat-kaur-guliani/)
     
