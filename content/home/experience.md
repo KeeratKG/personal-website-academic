@@ -81,12 +81,12 @@ count = 5
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Experience"
- subtitle = ""
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 40
 
 +++
 
-Always updated on [LinkedIn.](https://www.linkedin.com/in/keerat-kaur-guliani/)
+ - Always updated on [LinkedIn.](https://www.linkedin.com/in/keerat-kaur-guliani/)
     
