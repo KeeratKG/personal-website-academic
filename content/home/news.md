@@ -16,6 +16,7 @@ weight = 30
 
 +++
 
+- **May 2022**: Starting my applied research internship at Vanguard AI Research and Enterprise AI for the next 8 months. 
 -	**Aug 2022**: Heading over to **University of Toronto** for **Master of Science in Applied Computing**, Fall 2022 cohort.
 -	**May 2022**: Graduated First Division with Distinction from IIT Roorkee.
 -   **Mar 2022**: Our paper "[VacSIM](https://www.sciencedirect.com/science/article/pii/S2666521222000138): Learning effective strategies for COVID-19 vaccine distribution using reinforcement learning" has been accepted at **Elsevier's Intelligence Based Medicine**!
