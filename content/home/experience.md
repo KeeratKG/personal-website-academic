@@ -1,4 +1,4 @@
-+++
+<!-- +++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 # MOST RECENT FIRST 
-Always updated on [LinkedIn.](https://www.linkedin.com/in/keerat-kaur-guliani/)
+
 
 [[experience]]
   title = "Research Intern (Remote)"
@@ -68,3 +68,25 @@ epileptic type, that would increase efficiency & accuracy of epileptic diagnosis
 
 
 +++
+ -->
+ 
+ +++
+# Custom Experience widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
+active = true
+date = 2018-06-28T00:00:00
+count = 5
+
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "Experience"
+ subtitle = ""
+
+# Order that this section will appear in.
+weight = 40
+
++++
+
+Always updated on [LinkedIn.](https://www.linkedin.com/in/keerat-kaur-guliani/)
+    
