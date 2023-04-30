@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 # MOST RECENT FIRST 
-
+Always updated on [LinkedIn.](https://www.linkedin.com/in/keerat-kaur-guliani/)
 
 [[experience]]
   title = "Research Intern (Remote)"
